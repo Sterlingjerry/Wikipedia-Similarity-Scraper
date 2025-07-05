@@ -21,6 +21,28 @@ This project provides Python tools and a Streamlit web app to scrape Wikipedia a
 - `requirements.txt`: Python package dependencies for easy setup.
 
 ---
+## Tools & Frameworks
+This python project was built with the following tools and frameworks:
+
+Requests — For making HTTP requests to fetch Wikipedia pages
+
+BeautifulSoup (bs4) — For parsing and scraping HTML content
+
+pandas — For organizing and exporting data to CSV
+
+tqdm — For progress bars during scraping
+
+SentenceTransformers — For generating semantic embeddings of text
+
+scikit-learn — For calculating cosine similarity between embeddings
+
+Streamlit — For the interactive web app interface
+
+Git — For version control and collaboration
+
+GitHub — For hosting the repository
+
+
 
 ## Installation
 
