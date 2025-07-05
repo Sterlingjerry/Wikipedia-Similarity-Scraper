@@ -1,6 +1,6 @@
 # Wikipedia Article Similarity Explorer
 
-This project provides Python tools and a Streamlit web app to scrape Wikipedia articles and compute their textual similarity using sentence embeddings. It is designed to help users compare Wikipedia articles—especially country pages—to find and analyze the most similar ones based on their content.
+This project provides Python tools and a Streamlit web app to scrape Wikipedia articles and compute their textual similarity using sentence embeddings. It is designed to help users compare Wikipedia articles, especially country pages to find and analyze the most similar ones based on their content.
 
 
 ## Features
